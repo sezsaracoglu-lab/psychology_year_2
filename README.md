@@ -10,4 +10,4 @@ statistical exercises, study guides, and exam preparation materials.
 ## Cognitive Psychology
 
 
-- [Theme:1 Lecture Slide Visuals] ( https://sezsaracoglu-lab.github.io/cognitive_psychology_lecture_2/ )
+- [Theme:1 Lecture Slide Visuals ]( https://sezsaracoglu-lab.github.io/cognitive_psychology_lecture_2/ )
