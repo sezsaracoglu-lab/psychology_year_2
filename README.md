@@ -12,5 +12,6 @@ statistical exercises, study guides, and exam preparation materials.
 - [Theme:1 Lecture 1 Slide Visuals ]( https://sezsaracoglu-lab.github.io/cognitive_psychology_lecture_1/ ) 
 
 - [Theme:2 Lecture 2 Slide Visuals ]( https://sezsaracoglu-lab.github.io/cognitive_psychology_lecture_2/ )
-- [Theme:2 Objective and Checklist](https://sezsaracoglu-lab.github.io/cognitive_psychology_theme2_teachings/)
+- [Theme:2 Notes and summeries](https://sezsaracoglu-lab.github.io/cognitive_psychology_theme2_teachings/)
+- [Theme:2 Objective and chekclist](https://sezsaracoglu-lab.github.io/cognitive_theme2_objectiveandchecklist/)
   
