@@ -17,4 +17,5 @@ statistical exercises, study guides, and exam preparation materials.
   3. [Theme:2 Deep dives checklist](https://sezsaracoglu-lab.github.io/cognitive_theme2_deepdive_Problem2/)
   4. [Theme:2 Article](https://sezsaracoglu-lab.github.io/cognitive_theme2_article/)
   5. [Theme:2 Lecture 2 Slide Visuals ]( https://sezsaracoglu-lab.github.io/cognitive_psychology_lecture_2/ )
+  6. [Concept Explainer](https://sezsaracoglu-lab.github.io/concept-explainer_visual/)
   
