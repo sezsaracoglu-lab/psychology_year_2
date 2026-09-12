@@ -23,3 +23,7 @@ statistical exercises, study guides, and exam preparation materials.
   5. [Theme:2 Lecture 2 Slide Visuals ]( https://sezsaracoglu-lab.github.io/cognitive_psychology_lecture_2/ )
   6. [Concept Explainer](https://sezsaracoglu-lab.github.io/concept-explainer_visual/)
   
+**Theme 3**
+
+  1. [Concepts 3a notes and summeries](https://sezsaracoglu-lab.github.io/cognitive_theme3_3a/)
+  2. 
