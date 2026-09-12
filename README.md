@@ -26,4 +26,4 @@ statistical exercises, study guides, and exam preparation materials.
 **Theme 3**
 
   1. [Concepts 3a notes and summeries](https://sezsaracoglu-lab.github.io/cognitive_theme3_3a/)
-  2. 
+  2. [Concept 3b notes and summeries](https://sezsaracoglu-lab.github.io/cognitive_concept_3b/)
