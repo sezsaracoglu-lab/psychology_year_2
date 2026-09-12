@@ -12,7 +12,7 @@ statistical exercises, study guides, and exam preparation materials.
 **Theme 1**
 
   1. [Theme:1 Lecture 1 Slide Visuals ]( https://sezsaracoglu-lab.github.io/cognitive_psychology_lecture_1/ )
-  2. [ Easy high level teaching](https://sezsaracoglu-lab.github.io/theme1_visualteaching/)
+  2. [ Easy high level teaching](https://sezsaracoglu-lab.github.io/theme1_visualteachig_v2/)
   3. 
 
 **Theme 2**
