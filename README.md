@@ -27,3 +27,9 @@ statistical exercises, study guides, and exam preparation materials.
 
   1. [Concepts 3a notes and summeries](https://sezsaracoglu-lab.github.io/cognitive_theme3_3a/);[Visual advanced version](https://sezsaracoglu-lab.github.io/theme3_autobiography/)
   2. [Concept 3b notes and summeries](https://sezsaracoglu-lab.github.io/cognitive_concept_3b/); [Visual advanced version](https://sezsaracoglu-lab.github.io/theme3_amnesia/)
+
+## Statistics 2
+
+**Lecture and content ** 
+
+- [Week 1 and Week 2 Lectures](https://sezsaracoglu-lab.github.io/STAT_2_WEEK1_2/) 
