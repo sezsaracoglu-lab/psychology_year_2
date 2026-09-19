@@ -30,6 +30,6 @@ statistical exercises, study guides, and exam preparation materials.
 
 ## Statistics 2
 
-**Lecture and content ** 
+**Lecture and content**
 
 - [Week 1 and Week 2 Lectures](https://sezsaracoglu-lab.github.io/STAT_2_WEEK1_2/) 
