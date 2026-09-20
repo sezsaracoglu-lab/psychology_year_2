@@ -36,6 +36,11 @@ statistical exercises, study guides, and exam preparation materials.
 - [Week 3 Lecture](https://sezsaracoglu-lab.github.io/stat_2_lecture_3/)
 - [Week 4 Lecture](https://sezsaracoglu-lab.github.io/stat2_lecture_4/)
 
+
+**Practise Exams**
+
+- [Theme 2 Practise exam](https://sezsaracoglu-lab.github.io/stat_2_theme2_practise-exam/)
+
 **Moc Exams**
 
 - [Stat 1 Topics Moc 1](https://sezsaracoglu-lab.github.io/stat2_moc_1/)
