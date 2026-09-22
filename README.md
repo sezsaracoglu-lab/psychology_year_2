@@ -4,7 +4,8 @@ Welcome to my second-year Psychology study lab.
 
 This space contains my course notes, practical assignments,
 statistical exercises, study guides, and exam preparation materials.
-[NID}(https://sezsaracoglu-lab.github.io/NID_NL/)
+
+[NID](https://sezsaracoglu-lab.github.io/NID_NL/)
 
 ## Courses
 
