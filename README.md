@@ -33,7 +33,8 @@ statistical exercises, study guides, and exam preparation materials.
 **Theme 4**
 
   1. [Concept 4a](https://sezsaracoglu-lab.github.io/cognitive_theme4a/)
-  2. 
+  2. [Concept 4b](https://sezsaracoglu-lab.github.io/cognitive_theme4_4b/)
+  3. 
 
 ## Statistics 2
 
