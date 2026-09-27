@@ -57,6 +57,7 @@ statistical exercises, study guides, and exam preparation materials.
 
 - [Theme 2 Practise exam](https://sezsaracoglu-lab.github.io/stat_2_theme2_practise-exam/)
 - [Theme 3 Practise exam](https://sezsaracoglu-lab.github.io/stat2_theme2_practise-exam/)
+- [Theme 4 Parctise exam](https://sezsaracoglu-lab.github.io/stat2_regression_practise_Exam/)
 
 **Moc Exams**
 
