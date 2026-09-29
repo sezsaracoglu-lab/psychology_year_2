@@ -62,4 +62,9 @@ statistical exercises, study guides, and exam preparation materials.
 **Moc Exams**
 
 - [Stat 1 Topics Moc 1](https://sezsaracoglu-lab.github.io/stat2_moc_1/)
+
+  
+## SPSS 2
+
+- [SPSS Meeting 2](https://sezsaracoglu-lab.github.io/SPSS_year2_theme1/)
 - 
